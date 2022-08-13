@@ -1,0 +1,9 @@
+.botonModalCliente {
+    display: flex;
+    justify-content: center;
+  }
+
+.modal-title{
+    display: flex;
+    justify-content: center;
+}

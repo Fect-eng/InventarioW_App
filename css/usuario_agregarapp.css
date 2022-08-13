@@ -1,0 +1,19 @@
+html,body {
+    height:100%;
+    padding-top:70px;
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    
+}
+
+body {
+    margin: 0;
+    background: rgb(231, 231, 227);
+    color: #000;
+}
+
+#contenedorTablas{
+    top: -100dp;
+}
+
